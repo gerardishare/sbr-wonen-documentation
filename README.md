@@ -2,8 +2,8 @@
 metaLinks: {}
 ---
 
-# SBR-Wonen Documentatie
+# Handleidingen
 
-Hier vindt u alle documentatie en veelgestelde vragen rondom SBR-Wonen en het aanleveren van de dPi, dVi en ABM.
+Hier vindt u alle documentatie handleidingen voor het aanleveren van de dPi, dVi en ABM.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Handleiding dPi 2026</strong></td><td></td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td><td></td></tr><tr><td><strong>Handleiding Aedes Benchmark 2026</strong></td><td></td><td><a href="aedes-benchmark/handleiding-aedes-benchmark/">handleiding-aedes-benchmark</a></td><td><a href=".gitbook/assets/abm.png">abm.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Handleiding dPi (inhoudelijk)</strong></td><td>Bevat inhoudelijke instructies voor het aanleveren van de dPi rapportage.</td><td><a href="dpi/handleiding-dpi/">handleiding-dpi</a></td><td></td></tr><tr><td><strong>Handleiding dPi (portaal)</strong></td><td>Bevat instructies over de werking van het portaal.</td><td><a href="dpi/handleiding-dpi-portaal/">handleiding-dpi-portaal</a></td><td></td></tr><tr><td><strong>Handleiding dVi (inhoudelijk)</strong></td><td>Bevat inhoudelijke instructies voor het aanleveren van de dVi rapportage.</td><td><a href="dvi/handleiding-dvi.md">handleiding-dvi.md</a></td><td></td></tr><tr><td><strong>Handleiding dVi (portaal)</strong></td><td>Bevat instructies over de werking van het portaal.</td><td><a href="dvi/handleiding-dpi-portaal.md">handleiding-dpi-portaal.md</a></td><td></td></tr><tr><td><strong>Handleiding ABM</strong></td><td>Bevat inhoudelijke en procesinstructies voor het aanleveren van de Aedes Benchmark rapportage.</td><td><a href="aedes-benchmark/handleiding-aedes-benchmark/">handleiding-aedes-benchmark</a></td><td></td></tr></tbody></table>

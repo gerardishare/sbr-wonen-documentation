@@ -1,4 +1,4 @@
-# Algemeen
+# 1. Algemeen
 
 In dit hoofdstuk vult u algemene gegevens van de woningcorporatie in. Bij gebruik van een xbrl-bestand van uw softwareleverancier worden de gegevens van de corporatie automatisch ingevuld. Als u geen gebruik maakt van een import xbrl-bestand van uw softwareleverancier, vult u bij de invulvelden ‘Naam softwarepakket’ en ‘Versie softwarepakket’ n.v.t. in.
 
@@ -67,7 +67,7 @@ flowchart LR
 
 Is sprake van een fusie die voor 1 april van het eerste prognosejaar wordt gerealiseerd, dan is de dPi een gecombineerde opgave van de organisaties die met elkaar fuseren. Als gevolg hiervan moet u ook de informatie over het huidige verslagjaar (forecastjaar in de dPi) als één gefuseerde weergave in de dPi aanleveren. Voor de beoordeling is het beeld van de (komende) fusiecorporatie relevant.
 
-Vul als algemene gegevens de gegevens van de fusiedrager in. De fusiedrager heeft over het algemeen de benodigde informatie om een gedegen geconsolideerde dPi in te dienen. Neem bij vragen hierover contact op met de Servicedesk van SBR-wonen.
+Vul als algemene gegevens de gegevens van de fusiedrager in. De fusiedrager heeft over het algemeen de benodigde informatie om een gedegen geconsolideerde dPi in te dienen. Neem bij vragen hierover contact op met de [Servicedesk van SBR-wonen](https://servicedesk.sbr-wonen.nl/support/tickets/new).
 
 {% hint style="warning" %}
 **Let op**
@@ -76,4 +76,3 @@ Vul als algemene gegevens de gegevens van de fusiedrager in. De fusiedrager heef
 * Alle invulvelden zijn verplicht (mits van toepassing voor uw corporatie) en daarom moet altijd een waarde zijn ingevuld. Indien een invulveld voor uw corporatie niet van toepassing is, dan vult u een 0 in.
 * In de tabellen van de hoofdstukken 2.7, 3.4.1 en 4.1 worden percentages uitgevraagd. U dient hier de daadwerkelijke percentages in te vullen. 1% vult u dus als 1 in.
 {% endhint %}
-
