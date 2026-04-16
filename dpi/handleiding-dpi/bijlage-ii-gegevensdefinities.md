@@ -12,4 +12,4 @@ Iedere element wordt op de portal eenmalig gedefinieerd. Daarna kan dat element 
 
 Op het portaal van SBR-wonen kunt u de definities op de onderstaande manier zien en gebruiken:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>

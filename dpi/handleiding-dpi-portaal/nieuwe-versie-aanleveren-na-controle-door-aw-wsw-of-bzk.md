@@ -8,4 +8,4 @@ Toelichting
 
 a. Klik hier om een kopie aan te maken van een rapport. De kopie verschijnt bij Voltooide rapportages’. Het maakt niet uit of u daarvoor de rapportage van het WSW, Aw, of BZK kiest, deze zijn gelijk aan elkaar).
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>

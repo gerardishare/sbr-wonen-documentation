@@ -34,8 +34,31 @@
 
 ## dVi
 
-* [Handleiding dVi](dvi/handleiding-dvi.md)
-* [Handleiding dVi portaal](dvi/handleiding-dpi-portaal.md)
+* [Handleiding dVi](dvi/handleiding-dvi/README.md)
+  * [Stappenplan indienen dVi](dvi/handleiding-dvi/stappenplan-indienen-dvi.md)
+  * [Onderdeel A: toelichting op de gegevensuitvraag](dvi/handleiding-dvi/onderdeel-a-toelichting-op-de-gegevensuitvraag/README.md)
+    * [1. Algemeen](dvi/handleiding-dvi/onderdeel-a-toelichting-op-de-gegevensuitvraag/1.-algemeen.md)
+    * [2. Informatie over bezit](dvi/handleiding-dvi/onderdeel-a-toelichting-op-de-gegevensuitvraag/2.-informatie-over-bezit.md)
+    * [3. Financiële verantwoording](dvi/handleiding-dvi/onderdeel-a-toelichting-op-de-gegevensuitvraag/3.-financiele-verantwoording.md)
+    * [4. Treasury](dvi/handleiding-dvi/onderdeel-a-toelichting-op-de-gegevensuitvraag/4.-treasury.md)
+    * [5. Overige (volkshuisvestelijke) verantwoording](dvi/handleiding-dvi/onderdeel-a-toelichting-op-de-gegevensuitvraag/5.-overige-volkshuisvestelijke-verantwoording.md)
+  * [Onderdeel B: toelichting op de opbouw van de WOZ-bezitstabel](dvi/handleiding-dvi/onderdeel-b-toelichting-op-de-opbouw-van-de-woz-bezitstabel/README.md)
+    * [1. Algemene informatie](dvi/handleiding-dvi/onderdeel-b-toelichting-op-de-opbouw-van-de-woz-bezitstabel/1.-algemene-informatie.md)
+    * [2. Opbouw bestand WOZ-bezitstabel](dvi/handleiding-dvi/onderdeel-b-toelichting-op-de-opbouw-van-de-woz-bezitstabel/2.-opbouw-bestand-woz-bezitstabel.md)
+    * [3. Opslaan als csv-bestand](dvi/handleiding-dvi/onderdeel-b-toelichting-op-de-opbouw-van-de-woz-bezitstabel/3.-opslaan-als-csv-bestand.md)
+    * [4. Controleren WOZ-bezitstabel voor validatie](dvi/handleiding-dvi/onderdeel-b-toelichting-op-de-opbouw-van-de-woz-bezitstabel/4.-controleren-woz-bezitstabel-voor-validatie.md)
+  * [Bijlagen](dvi/handleiding-dvi/bijlagen/README.md)
+    * [Bijlage I – Toelichting regimes en vrijstellingen](dvi/handleiding-dvi/bijlagen/bijlage-i-toelichting-regimes-en-vrijstellingen.md)
+    * [Bijlage II – Validaties](dvi/handleiding-dvi/bijlagen/bijlage-ii-validaties.md)
+    * [Bijlage III – Scheidingstekens in csv-bestand](dvi/handleiding-dvi/bijlagen/bijlage-iii-scheidingstekens-in-csv-bestand.md)
+* [Handleiding proces dVi2025 & WOZ-bezitstabel](dvi/handleiding-dpi-portaal/README.md)
+  * [Stappenplan indienen dVi](dvi/handleiding-dpi-portaal/stappenplan-indienen-dvi.md)
+  * [Belangrijke aandachtspunten](dvi/handleiding-dpi-portaal/belangrijke-aandachtspunten.md)
+  * [Stap 1 – Vul de WOZ-bezitstabel in](dvi/handleiding-dpi-portaal/stap-1-vul-de-woz-bezitstabel-in.md)
+  * [Stap 2 – Valideer de WOZ-bezitstabel op sbr-wonen.nl](dvi/handleiding-dpi-portaal/stap-2-valideer-de-woz-bezitstabel-op-sbr-wonen.nl.md)
+  * [Stap 3 – Vul de dVi2025 rapportage in](dvi/handleiding-dpi-portaal/stap-3-vul-de-dvi2025-rapportage-in.md)
+  * [Stap 4 – Maak de dVi-rapportage geschikt voor ondertekening door de accountant](dvi/handleiding-dpi-portaal/stap-4-maak-de-dvi-rapportage-geschikt-voor-ondertekening-door-de-accountant.md)
+  * [Stap 5 – Dien de dVi2025 in](dvi/handleiding-dpi-portaal/stap-5-dien-de-dvi2025-in.md)
 
 ## Aedes Benchmark
 
